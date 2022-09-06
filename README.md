@@ -1,1 +1,1 @@
-[This is the ink to the website](https://mernappnews.herokuapp.com/)
+[This is the link to the website](https://mernappnews.herokuapp.com/)
